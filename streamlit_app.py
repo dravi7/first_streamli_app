@@ -6,4 +6,4 @@ streamlit.header('Breakfast menu')
 
 streamlit.text('idly')
 streamlit.text('Dosa')
-Streamlit.text('vada')
+streamlit.text('vada')
